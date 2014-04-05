@@ -4,7 +4,7 @@
  */////////////////////
 import Protocol.MapReader.Element.MapElement;
 import Protocol.MapReader.Map;
-import Network.BinaryReader;
+import IO.BinaryReader;
 import  Protocol.MapReader.Element.GraphicalElement;
 import Protocol.MapReader.Element.SoundElement;
 

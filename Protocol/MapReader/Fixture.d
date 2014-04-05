@@ -2,7 +2,7 @@
 /*  /////////////////////
  *   MapReader by tifoux
  */////////////////////
-import Network.BinaryReader;
+import IO.BinaryReader;
 import Protocol.MapReader.Map;
 import Utils.Logger;
 class Fixture

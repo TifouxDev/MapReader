@@ -3,7 +3,7 @@
  *   MapReader by tifoux
  */////////////////////
 import Protocol.MapReader.Map;
-import Network.BinaryReader;
+import IO.BinaryReader;
 import Protocol.MapReader.Cell;
 import Utils.Logger;
 class Layer

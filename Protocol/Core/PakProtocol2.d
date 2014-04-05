@@ -3,7 +3,7 @@
  *   MapReader by tifoux
  *    Fonctionne que pour lire les maps attention n'essayer pas de lire les d2p des images etc...
  */////////////////////
-import Network.BinaryReader;
+import IO.BinaryReader;
 import std.file;
 import Utils.Logger;
 import std.stdio;

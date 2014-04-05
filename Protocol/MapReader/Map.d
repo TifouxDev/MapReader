@@ -2,7 +2,7 @@
 /*  /////////////////////
  *   MapReader by tifoux
  */////////////////////
-import Network.BinaryReader;
+import IO.BinaryReader;
 import Utils.Logger;
 import std.zlib;
 import std.conv;
