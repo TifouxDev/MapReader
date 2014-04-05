@@ -21,8 +21,8 @@ void main(string[] args)
 	int mapID = 84676099;
 	PakProtocol2 d2pTest = new PakProtocol2(path);
 	Map map = d2pTest.readMap(mapID);
+	
 	//test
-	int cellID = 0;
 	foreach(CellData cell; map.Cells)
 	{
 		if((cell.Mov))
