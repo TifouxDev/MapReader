@@ -16,7 +16,7 @@ void main(string[] args)
 	/*Chemin de votre fichier d2p 
 	 * Example : C:\\Program Files (x86)\\Dofus2\\app\\content\\maps\\maps0.d2p
 	*/
-	string path = "C:\\Users\\Ecole Eletronique\\Music\\WakfuSniffer\\maps0.d2p";
+	string path = "uri";
 	// L'ID de la map!
 	int mapID = 84676099;
 	PakProtocol2 d2pTest = new PakProtocol2(path);
